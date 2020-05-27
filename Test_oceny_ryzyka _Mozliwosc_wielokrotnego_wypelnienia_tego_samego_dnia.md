@@ -14,3 +14,7 @@ Kroki, by powtórzyć:
 4. Po wypełnieniu ankiety używa buttona "Sprawdź wynik"  
 5. Używając przycisku menu "chamburgera" ponownie wybiera "Ankieta oceny ryzyka"  
 6. Kroki 3-5 wykonuje dowolną ilość razy.  
+
+Screeny:  
+
+<img src="img/Test_oceny_ryzyka.png>
