@@ -18,5 +18,6 @@ Wciśnięcie buttona "OK" powoduje powrót do strony "home"
 Oczekiwany rezultat:
 Brak Buttona "OK" w sekcji "porady"
 
-Screeny:  
+Screeny: 
+<omg src="img/Zbędny_przycisk_OK_Porady.png">
 
