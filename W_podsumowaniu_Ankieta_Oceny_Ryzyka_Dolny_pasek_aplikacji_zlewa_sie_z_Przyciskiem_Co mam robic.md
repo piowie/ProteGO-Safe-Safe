@@ -12,4 +12,4 @@ Kroki, by powtórzyć:
 
 Screeny:  
 
-<img src="img/Zlewający_pasek.png">
+<img src="img/Zlewający_pasek1.png">
