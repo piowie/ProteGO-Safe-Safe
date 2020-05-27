@@ -13,3 +13,7 @@ Aplikacja nie wysyła żadnych powiadomień
 
 Oczekiwany rezultat.  
 Po upływie wymaganej ilości czasu, aplikacja wysyła powiadomienia do użytkownika o możliwości (potrzebie) wykonania kolejnych testów i (lub) innych akcji wymagających uwagi użytkownika.  
+
+Screeny:  
+
+<img src="img/Brak_powiadomień.png">
