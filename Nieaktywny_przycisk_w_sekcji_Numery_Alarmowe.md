@@ -21,4 +21,4 @@ Przycisk "pokaż najbliższe szpitale zakaźne i sanepidy w okolicy" jest aktywn
 Screeny:  
 
 <img src="img/Nieaktywny_przycisk_PC.png">
-<img src="img/Niekatywny_przycisk_app.png">
+<img src="img/Niekatywny_przycisk_app1.png">
