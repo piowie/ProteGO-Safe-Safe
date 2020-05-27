@@ -11,3 +11,7 @@ Kroki, by powtórzyć:
 3. następnie z menu bocznego wybiera "Ustawienia"
 4. Zaznacza opcję "Zgoda na użycie przez aplikację funkcji Bluetooth" (na urządzeniu które fizycznie nie ma modułu BlueTooth)
 
+Screeny:  
+
+<img src="img/Możliwość_włączaniaBT_na_urzadzeniu_bezBT.png">
+
