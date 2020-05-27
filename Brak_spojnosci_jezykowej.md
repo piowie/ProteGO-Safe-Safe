@@ -14,3 +14,4 @@ Wszystkie komunikaty w "polityka prywatności" wyświetlane są w języku polski
 
 Screeny:  
 
+<img src="img/Spojnosc_jezykowa.png">
