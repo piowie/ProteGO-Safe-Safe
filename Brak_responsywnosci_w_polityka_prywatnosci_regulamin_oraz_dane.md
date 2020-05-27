@@ -14,6 +14,6 @@ Text jest widoczny i wycentrowany na "wyświetlaczu", tak samo jak i "buttony"
 
 Screeny:  
 
-<img src="img/">  
-<img src="img/">  
-<img src="img/">  
+<img src="img/Respomsywnosc_Dane1.png">  
+<img src="img/Responsywność_polityka_prywatności1.png">  
+<img src="img/Responsywnosc_Regulamin1.jpg">  
