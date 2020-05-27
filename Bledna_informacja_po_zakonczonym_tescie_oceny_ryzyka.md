@@ -16,4 +16,7 @@ Kroki, by powtórzyć:
 Oczekiwany rezultat:    
 Podczas wypełniania ankiety oceny ryzyka któryś raz z kolei, informacja o tym powinna być inna względem wypełniania tej ankiety po raz pierwszy.
 
+Screeny:  
+
+<img src="img/Bledna_informacja_oceny_ryzyka.png">
 
