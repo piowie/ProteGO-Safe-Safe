@@ -12,8 +12,4 @@ Text, jak i przyciski są za bardzo przesunięte w prawą stronę wzgledem "ekra
 Oczekiwany rezultat.
 Text jest widoczny i wycentrowany na "wyświetlaczu", tak samo jak i "buttony"  
 
-Screeny:  
 
-<img src="img/Respomsywnosc_Dane1.png">  
-<img src="img/Responsywność_polityka_prywatności1.png">  
-<img src="img/Responsywnosc_Regulamin2.jpg">  
