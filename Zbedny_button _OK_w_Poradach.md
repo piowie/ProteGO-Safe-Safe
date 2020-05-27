@@ -19,5 +19,5 @@ Oczekiwany rezultat:
 Brak Buttona "OK" w sekcji "porady"
 
 Screeny: 
-<omg src="img/Zbędny_przycisk_OK_Porady.png">
+<img src="img/Zbędny_przycisk_OK_Porady.png">
 
