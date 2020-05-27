@@ -13,4 +13,4 @@ Wprowadzenie strony startowej dla aplikacji SafeSafe jak i wersji "staconarnej" 
 
 Screeny:  
 
-<img src="img/Start_page.png">
+<img src="img/Start_page1.png">
