@@ -20,6 +20,6 @@ Na górze nowo otwartej strony użytkownik ma faktyczny dostęp do map googla, k
 
 Screeny:  
 
-<img src="img/Google_Maps_App.png">
+<img src="img/Google_Maps_App1.png">
 <img src="img/Google_Maps_PC.png">
 
