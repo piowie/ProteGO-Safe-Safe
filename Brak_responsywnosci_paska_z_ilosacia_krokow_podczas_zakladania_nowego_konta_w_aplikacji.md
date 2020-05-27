@@ -13,4 +13,10 @@ Kroki, by powtórzyć:
 3. Użytkownik wciska button "DALEJ"
 4. Podczas wypełniania wymaganych pól, na gorze aplikacji pojawia się pasek informujący nas o postępie zakładania konta.  
 
-Podczas zakładania konta w aplikacji SafeSafe lub w wersji Desktopowej na http://safesafe-dev.thecoders.io u góry aplikacji/strony pojawia się belka, informująca użytkownika o ilości ekranów (kroków), które pozostały mu do ukończenia procesu "rejestracji". Niezależnie od orientacji urządzenia, pasek ten jest duży i "wychodzi" poza okno urządzenia (Aplikacja), natomiast w wersji desktopowej pasek ten nie jest umiejscowiony "centralnie" (jest przesunięty za bardzo w prawo)
+Podczas zakładania konta w aplikacji SafeSafe lub w wersji Desktopowej na u góry aplikacji/strony pojawia się belka, informująca użytkownika o ilości ekranów (kroków), które pozostały mu do ukończenia procesu "rejestracji". Niezależnie od orientacji urządzenia, pasek ten jest duży i "wychodzi" poza okno urządzenia (Aplikacja), natomiast w wersji desktopowej pasek ten nie jest umiejscowiony "centralnie" (jest przesunięty za bardzo w prawo)
+
+Screeny:  
+
+<img src="img/Górna_belka_1.png">
+<img src="img/Górna_belka_3.png">
+<img src="img/Górna_belka_3_desktop.png">
