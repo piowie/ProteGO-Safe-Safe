@@ -17,4 +17,4 @@ Kroki, by powtórzyć:
 
 Screeny:  
 
-<img src="img/Test_oceny_ryzyka.png>
+<img src="img/Test_oceny_ryzyka.png">
