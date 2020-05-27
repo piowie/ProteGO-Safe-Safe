@@ -20,5 +20,5 @@ Przycisk "zmień dane" jest aktywny, możliwa zmiana informacji w profilu użytk
 
 Screeny:  
 
-<img src="img/Brak_edycji_danych.png">
+<img src="img/Brak_mozliwosci_edycji_danych.png">
   
