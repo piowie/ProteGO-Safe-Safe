@@ -1,4 +1,4 @@
-Kroki, by powtórzyć:  	
+Kroki, by powtórzyć:    	
 1.Użytkownik otwiera aplikację mobilną SafeSAfe  
 2. Z menu Chamburgera wybiera "Ankieta Oceny Ryzyka"  
 3. Użytkownik używa przycisku "wykonaj test oceny ryzyka", nastepnie "dalej" oraz wypełnia całą ankietę  
